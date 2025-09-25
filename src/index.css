@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+  font-family: 'Vazirmatn', system-ui, -apple-system, sans-serif;
+}
+
 /* Design system for UPVC & Window Company - Professional & Trustworthy 
 All colors MUST be HSL.
 */
